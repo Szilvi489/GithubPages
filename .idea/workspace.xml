@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="helooo 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="helooo 233">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,31 @@
       <option name="project" value="LOCAL" />
       <updated>1734374511010</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="helooo 233">
+      <option name="closed" value="true" />
+      <created>1734374636003</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734374636003</updated>
+    </task>
+    <task id="LOCAL-00013" summary="helooo 233">
+      <option name="closed" value="true" />
+      <created>1734374656355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734374656355</updated>
+    </task>
+    <task id="LOCAL-00014" summary="helooo 233">
+      <option name="closed" value="true" />
+      <created>1734374709337</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734374709337</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +229,7 @@
     <MESSAGE value="initial commit ... again ..bggfb mmm" />
     <MESSAGE value="helooo" />
     <MESSAGE value="helooo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="helooo 2" />
+    <MESSAGE value="helooo 233" />
+    <option name="LAST_COMMIT_MESSAGE" value="helooo 233" />
   </component>
 </project>
