@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="initial commit ... again ..bggfb mmm">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="helooo 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,18 +20,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Szilvi489"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Szilvi489&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Szilvi489/GithubPages.git",
-    "accountId": "6985e05b-c6e6-45a7-9d21-32195a86334a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Szilvi489/GithubPages.git&quot;,
+    &quot;accountId&quot;: &quot;6985e05b-c6e6-45a7-9d21-32195a86334a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -43,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "pages",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/szilvi/Desktop/develop/GithubPages"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;pages&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/szilvi/Desktop/develop/GithubPages&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
@@ -145,7 +145,31 @@
       <option name="project" value="LOCAL" />
       <updated>1734374251836</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial commit ... again ..bggfb mmm">
+      <option name="closed" value="true" />
+      <created>1734374356390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734374356390</updated>
+    </task>
+    <task id="LOCAL-00010" summary="helooo">
+      <option name="closed" value="true" />
+      <created>1734374387254</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734374387254</updated>
+    </task>
+    <task id="LOCAL-00011" summary="helooo 2">
+      <option name="closed" value="true" />
+      <created>1734374511010</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734374511010</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +203,8 @@
     <MESSAGE value="initial commit ... again .." />
     <MESSAGE value="initial commit ... again .. mmm" />
     <MESSAGE value="initial commit ... again ..bggfb mmm" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit ... again ..bggfb mmm" />
+    <MESSAGE value="helooo" />
+    <MESSAGE value="helooo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="helooo 2" />
   </component>
 </project>
