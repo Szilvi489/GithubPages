@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="styles">
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="styles ...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_includes/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +59,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "pages",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/szilvi/Desktop/develop/GithubPages/docs",
+    "last_opened_file_path": "/Users/szilvi/Desktop/develop/GithubPages/docs/_includes",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/_includes" />
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734461310527</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="styles ...">
+      <option name="closed" value="true" />
+      <created>1734462183172</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1734462183172</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +313,7 @@
     <MESSAGE value="added some code and the link" />
     <MESSAGE value="added some spice" />
     <MESSAGE value="styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="styles" />
+    <MESSAGE value="styles ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="styles ..." />
   </component>
 </project>
