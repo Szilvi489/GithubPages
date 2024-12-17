@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="added some code and the link">
-      <change afterPath="$PROJECT_DIR$/docs/ConstructonProject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ElephantProject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/styles.css" afterDir="false" />
+    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -230,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734458908460</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added some spice">
+      <option name="closed" value="true" />
+      <created>1734460252854</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1734460252854</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +273,8 @@
     <MESSAGE value="helooo 233" />
     <MESSAGE value="created the index html file" />
     <MESSAGE value="added some code and the link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some code and the link" />
+    <MESSAGE value="added some spice" />
+    <MESSAGE value="styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="styles" />
   </component>
 </project>
