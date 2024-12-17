@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="created the index html file">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    <list default="true" id="b1e312a6-b212-4268-aa1d-4e4d0e52a518" name="Changes" comment="added some code and the link">
+      <change afterPath="$PROJECT_DIR$/docs/ConstructonProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ElephantProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -13,6 +16,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -45,15 +55,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;pages&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/szilvi/Desktop/develop/GithubPages&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "pages",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/szilvi/Desktop/develop/GithubPages"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
@@ -211,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734458740592</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added some code and the link">
+      <option name="closed" value="true" />
+      <created>1734458908460</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734458908460</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +268,7 @@
     <MESSAGE value="helooo 2" />
     <MESSAGE value="helooo 233" />
     <MESSAGE value="created the index html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the index html file" />
+    <MESSAGE value="added some code and the link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some code and the link" />
   </component>
 </project>

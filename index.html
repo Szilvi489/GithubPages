@@ -4,27 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My GitHub Pages Site</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        nav {
-            background: #333;
-            padding: 10px;
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-            margin-right: 20px;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <link rel="stylesheet" href="../styles.css">
+    <script>
+        // Load the menu dynamically
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch("../menu.html")
+                .then(response => response.text())
+                .then(data => {
+                    document.querySelector("header").innerHTML = data;
+                });
+        });
+    </script>
+
 </head>
 <body>
+
+<header></header>
+<main>
+    <h1>Welcome to My Page</h1>
+    <p>This is the content of the page.</p>
+</main>
+
+
 <nav>
     <a href="about.html">About</a>
     <a href="features.html">Features</a>
